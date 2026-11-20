@@ -53,6 +53,20 @@ export const projects = [
     // TODO: repoUrl
   },
   {
+    slug: "MarkDown Text Editor",
+    name: "Markdown Editor",
+    role: "Full Stack",
+    featured: true,
+    live: true,
+    // TODO: one sentence on what it does and who it is for
+    description: "A website markdown editor for markdown text to beautiful structure and layout.",
+    overview: [], // TODO
+    points: [], // TODO
+    stack: ["React.js", "JavaScript", "Js Library"],
+    liveUrl: "https://mark-down-editor-jade.vercel.app/",
+    // TODO: repoUrl
+  },
+  {
     slug: "mealmend",
     name: "MealMend",
     role: "Backend Engineer",
