@@ -45,7 +45,7 @@ export const projects = [
     slug: "focustube",
     name: "FocusTube",
     role: "Backend Engineer",
-    // TODO: one sentence on what it does
+    TODO: "A platform where anyone want to focused learning with lecture like youtube videos so that FocusTube is usefull to learn in focus way with all the lecture history, full screen mode, timer, todo list etc."
     description: "Full-stack MERN application.",
     overview: [], // TODO
     points: [], // TODO
