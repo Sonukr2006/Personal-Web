@@ -34,7 +34,7 @@ export const projects = [
     slug: "instant",
     name: "Instant",
     role: "Full Stack Engineer",
-    TODO: "Instant is a tauri app, Suppose you are reading a pdf and something you don't understand then what will you do generally go to app menu aur browser then use any chatbot then enter questio. Now here Instant comes in you not needed to go to menu icon or something just sect those text whive you have not understood and just press a shortcut linke cnrl + shift + space and then a tauri app show as pop up answer the question and ask related question. if you are done then close the app."
+    TODO: "Instant is a tauri app, Suppose you are reading a pdf and something you don't understand then what will you do generally go to app menu aur browser then use any chatbot then enter questio. Now here Instant comes in you not needed to go to menu icon or something just sect those text whive you have not understood and just press a shortcut linke cnrl + shift + space and then a tauri app show as pop up answer the question and ask related question. if you are done then close the app.",
     description: "Open-source project, source available on GitHub.",
     overview: [], // TODO
     points: [], // TODO
@@ -45,7 +45,7 @@ export const projects = [
     slug: "focustube",
     name: "FocusTube",
     role: "Backend Engineer",
-    TODO: "A platform where anyone want to focused learning with lecture like youtube videos so that FocusTube is usefull to learn in focus way with all the lecture history, full screen mode, timer, todo list etc."
+    TODO: "A platform where anyone want to focused learning with lecture like youtube videos so that FocusTube is usefull to learn in focus way with all the lecture history, full screen mode, timer, todo list etc.",
     description: "Full-stack MERN application.",
     overview: [], // TODO
     points: [], // TODO
