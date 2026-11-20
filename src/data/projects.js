@@ -38,7 +38,7 @@ export const projects = [
     description: "Open-source project, source available on GitHub.",
     overview: [], // TODO
     points: [], // TODO
-    stack: [Rust, javaScript, tauri.], // TODO
+    stack: ["Rust", "javaScript", "tauri"], // TODO
     repoUrl: "https://github.com/Sonukr2006/Instant",
   },
   {
