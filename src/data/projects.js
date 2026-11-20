@@ -22,7 +22,7 @@ export const projects = [
     role: "Backend Engineer",
     featured: true,
     live: true,
-    TODO: Meetogether helps to early engineers and student to learn, showcase, with mentor and engineer who working in actual company.
+    TODO: "Meetogether helps to early engineers and student to learn, showcase, with mentor and engineer who working in actual company."
     description: "A full-stack product running in production at meetogether.in.",
     overview: [], // TODO
     points: [], // TODO
@@ -33,12 +33,12 @@ export const projects = [
   {
     slug: "instant",
     name: "Instant",
-    role: "Backend Engineer",
-    // TODO: one sentence on what it does
+    role: "Full Stack Engineer",
+    TODO: "Instant is a tauri app, Suppose you are reading a pdf and something you don't understand then what will you do generally go to app menu aur browser then use any chatbot then enter questio. Now here Instant comes in you not needed to go to menu icon or something just sect those text whive you have not understood and just press a shortcut linke cnrl + shift + space and then a tauri app show as pop up answer the question and ask related question. if you are done then close the app."
     description: "Open-source project, source available on GitHub.",
     overview: [], // TODO
     points: [], // TODO
-    stack: [], // TODO
+    stack: [Rust, javaScript, tauri.], // TODO
     repoUrl: "https://github.com/Sonukr2006/Instant",
   },
   {
