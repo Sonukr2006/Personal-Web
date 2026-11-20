@@ -19,4 +19,10 @@ export const channels = [
     handle: "@Sonukr2006",
     href: site.social.github,
   },
+  {
+    id: "leetcode",
+    label: "Leetcode",
+    handle: "@Sonukr2006",
+    href: site.social.leetcode,
+  },
 ].filter(Boolean);
