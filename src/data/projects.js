@@ -22,11 +22,11 @@ export const projects = [
     role: "Backend Engineer",
     featured: true,
     live: true,
-    TODO: "Meetogether helps to early engineers and student to learn, showcase, with mentor and engineer who working in actual company."
+    TODO: "Meetogether helps to early engineers and student to learn, showcase, with mentor and engineer who working in actual company.",
     description: "A full-stack product running in production at meetogether.in.",
     overview: [], // TODO
     points: [], // TODO
-    stack: ["NestJS", "Prisma", "PostgreSQL"],
+    stack: ["NestJS", "Prisma", "PostgreSQL", "JavaScript", "TypeScript", "React.js", "Pino"],
     liveUrl: "https://meetogether.in",
     // TODO: repoUrl
   },
