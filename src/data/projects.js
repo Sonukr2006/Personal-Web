@@ -22,7 +22,7 @@ export const projects = [
     role: "Backend Engineer",
     featured: true,
     live: true,
-    // TODO: one sentence on what it does and who it is for
+    TODO: Meetogether helps to early engineers and student to learn, showcase, with mentor and engineer who working in actual company.
     description: "A full-stack product running in production at meetogether.in.",
     overview: [], // TODO
     points: [], // TODO
