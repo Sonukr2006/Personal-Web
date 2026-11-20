@@ -8,9 +8,10 @@ export const site = Object.freeze({
     "Third-year CSE student at CGC University Mohali. I ship full-stack apps and I'm working toward launching my own products.",
   contact:
     "Open to internships and interesting projects. The fastest way to reach me is a message on LinkedIn.",
-  email: null, // TODO: "you@example.com" adds an email row to /contact
+  email: "sonukr96710@gmail.com", // TODO: "you@example.com" adds an email row to /contact
   social: {
     linkedin: "https://www.linkedin.com/in/sonu-kumar-00451228a/",
+    leetcode : "https://www.leetcode.com/Sonukr2006/",
     github: "https://github.com/Sonukr2006",
   },
 });
